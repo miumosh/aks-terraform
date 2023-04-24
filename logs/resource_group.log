@@ -1,0 +1,11 @@
+{
+  "id": "/subscriptions/<subscription_id>/resourceGroups/tfstate",
+  "location": "japaneast",
+  "managedBy": null,
+  "name": "tfstate",
+  "properties": {
+    "provisioningState": "Succeeded"
+  },
+  "tags": null,
+  "type": "Microsoft.Resources/resourceGroups"
+}
